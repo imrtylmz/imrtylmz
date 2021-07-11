@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack senior software engineer from :tr:Turkiye
+I am a senior full stack software developer from :tr:Turkiye
 - :computer:  Working on multiple frontend and backend projects using Php, Python, React and Nodejs
 - :iphone:  Building apps for mobile and tablets using Android Java, Swift, React Native, Flutter
 - :printer: Building apps for any devices (os: android, linux, windows ce, arm) using Java, C, C++
