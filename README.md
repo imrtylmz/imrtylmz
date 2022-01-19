@@ -3,6 +3,7 @@ I am a senior full stack software developer from :tr:Turkiye
 - :computer:  Working on multiple frontend and backend projects using Php, Python, React and Nodejs
 - :iphone:  Building apps for mobile and tablets using Android Java, Swift, React Native, Flutter
 - :printer: Building apps for any devices (os: android, linux, windows ce, arm) using Java, C, C++
+- :shield:  Researching & Building apps & scripts for security (ddos, flood, arp etc.) in Linux using Perl, Bash, Tengine, ZeroMq
 - :art: Learning design patterns in depth (but really bad on it :)
 <br>
 
@@ -39,5 +40,6 @@ I am a senior full stack software developer from :tr:Turkiye
 [<img align="left" alt="elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white" />](https://github.com/elastic/elasticsearch)
 [<img align="left" alt="redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" />](https://redis.io/)
 [<img align="left" alt="rabbitmq" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white" />](https://www.rabbitmq.com/)
+[<img align="left" alt="rabbitmq" src="https://img.shields.io/badge/ZeroMq-DF0000.svg?style=for-the-badge&logo=Zeromq&logoColor=white" />](https://zeromq.org/)
 <br>
 <br>
